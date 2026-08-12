@@ -31,3 +31,12 @@ A Streamlit app where users can upload a PDF and ask questions about it using AI
 - Build more Python and AI projects
 - Learn cybersecurity fundamentals
 - Improve my GitHub profile and portfolio
+- ## 📊 GitHub Stats
+
+![Faizan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=faizan11272&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faizan11272&layout=compact&theme=tokyonight&hide_border=true)
+
+## 💭 Developer Quote
+
+![Developer Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
