@@ -1,4 +1,4 @@
-# Hi, I'm Faizan Mirza 👋
+# Hi, I'm Faizan Ali👋
 
 ### Aspiring AI, Python & Cybersecurity Learner
 
